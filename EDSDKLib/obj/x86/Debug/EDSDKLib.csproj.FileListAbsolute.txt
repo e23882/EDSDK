@@ -1,0 +1,6 @@
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.dll
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\EDSDKLib\bin\Debug\EDSDKLib.pdb
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.csproj.CoreCompileInputs.cache
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.dll
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.pdb
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\EDSDKLib\obj\x86\Debug\EDSDKLib.csprojAssemblyReference.cache

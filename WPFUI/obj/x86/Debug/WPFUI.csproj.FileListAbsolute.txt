@@ -1,0 +1,16 @@
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\bin\Debug\WPFUI.exe
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\bin\Debug\WPFUI.pdb
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\bin\Debug\EDSDKLib.dll
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\bin\Debug\EDSDKLib.pdb
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI.csprojAssemblyReference.cache
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\MainWindow.baml
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\MainWindow.g.cs
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\App.g.cs
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI_MarkupCompile.cache
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI.g.resources
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI.Properties.Resources.resources
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI.csproj.GenerateResource.cache
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI.csproj.CoreCompileInputs.cache
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI.csproj.CopyComplete
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI.exe
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\WPFUI\obj\x86\Debug\WPFUI.pdb

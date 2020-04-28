@@ -1,0 +1,9 @@
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\bin\Debug\ConsoleExample.exe
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\bin\Debug\ConsoleExample.pdb
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\bin\Debug\EDSDKLib.dll
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\bin\Debug\EDSDKLib.pdb
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\obj\x86\Debug\ConsoleExample.csprojAssemblyReference.cache
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\obj\x86\Debug\ConsoleExample.csproj.CoreCompileInputs.cache
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\obj\x86\Debug\ConsoleExample.csproj.CopyComplete
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\obj\x86\Debug\ConsoleExample.exe
+D:\Backup\LeoYang\Desktop\SDKWorkSpace\CanonSDKTutorial\ConsoleExample\obj\x86\Debug\ConsoleExample.pdb
